@@ -1,0 +1,5 @@
+keystore.jks
+keystore.jks.b64
+.gradle/
+build/
+app/build/
